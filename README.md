@@ -1,4 +1,4 @@
-# quantun_IA
+# Quantum IA
 
 ## articles
 
